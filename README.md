@@ -2,6 +2,8 @@
 
 Hi there! 👋 I'm [Your Name], a [Your Profession/Role] based in [Your Location]. Welcome to my GitHub profile!
 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+
 ## About Me
 
 - 🔭 I'm currently working on [Current Project(s)].
