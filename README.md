@@ -1,6 +1,8 @@
-## Hi I'm Daisy, Thank you for visiting
+<div align = "center">
+  ![header](https://capsule-render.vercel.app/api?type=slice)
+</div>
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/androidstudio-#3DDC84?style=flat&logo=androidstudio&logoColor=#3DDC84"/></a>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 ## About Me
 
