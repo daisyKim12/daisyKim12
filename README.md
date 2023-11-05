@@ -5,6 +5,8 @@
   
 </div>
 
+[resume](https://daisykim12.github.io/my_resume/)
+
 ### 👋 Hi! Welcome to My Github
 <div align="left">
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
