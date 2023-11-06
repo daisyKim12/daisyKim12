@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </div>
 
-## CV
+### 👋 CV
 [This is who I am](https://daisykim12.github.io/my_resume/)
 
 
