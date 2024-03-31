@@ -21,6 +21,6 @@
 </div>
 
 ### 📬 CV
-[This is who I am](https://daisykim12.github.io/my_resume/)
+[Who is SukJin Kim?](https://daisykim12.github.io/my_resume/)
 
 
